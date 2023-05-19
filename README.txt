@@ -11,5 +11,5 @@ Usage:
 Note: Make sure to adjust the closing time in the while loop condition (hora < 23) if needed.
 
 Feel free to customize the code to suit your specific requirements and preferences.
-Any questions you can get in touch with me here: [Linkedin](https://www.linkedin.com/in/francisco-gomes-962630267/)
+Any questions you can get in touch with me here: https://www.linkedin.com/in/francisco-gomes-962630267/
 
